@@ -16,7 +16,7 @@
 
 ---
 
-### ⚒️ Tech Stack
+### ⚒️ Tech Stack (Still learning!)
 
 - **Languages**: Python, JavaScript, HTML/CSS, C++
 - **Frameworks**: React, TailwindCSS, Flask
